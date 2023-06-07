@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hola, soy marodriguezd 👋
 
-<!--
-**marodriguezd/marodriguezd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador de aplicaciones multiplataforma apasionado por el software libre. Me encantan los videojuegos, la cultura asiática, la espiritualidad y la filosofía.
 
-Here are some ideas to get you started:
+## Habilidades y experiencia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Java, Python, VBA (Excel)
+* 🌐 HTML, CSS
+* 📦 MySQL, MongoDB, SQL, PLSQL
+* 📄 JSON, XML
+* 🛠️ NetBeans, Eclipse, PyCharm, Visual Studio Code
+
+## Proyectos destacados
+
+Aunque por el momento no tengo ningún trabajo público importante, estoy trabajando en proyectos privados en desarrollo que espero compartir pronto.
+
+## Redes sociales y contacto
+
+* [LinkedIn](https://www.linkedin.com/in/marodriguezd/)
+* [Twitter](https://twitter.com/marodriguezd_)
