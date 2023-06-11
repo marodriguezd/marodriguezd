@@ -1,4 +1,4 @@
-# Hola, soy marodriguezd 👋
+# Hola, soy Miguel Ángel 👋
 
 Soy un desarrollador de aplicaciones multiplataforma apasionado por el software libre. Me encantan los videojuegos, la cultura asiática, la espiritualidad y la filosofía.
 
