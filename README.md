@@ -16,7 +16,7 @@ Aunque por el momento no tengo ningún trabajo público importante, estoy trabaj
 
 ## Cursos hechos
 
-* [¡Linux: de Noob a Pro en 9 horas!] (https://drive.google.com/file/d/1OdWc8QZ82b4bGz7Zi1lK4tyYobwv2oA0/view?usp=sharing)
+* [¡Linux: de Noob a Pro en 9 horas!](https://drive.google.com/file/d/1OdWc8QZ82b4bGz7Zi1lK4tyYobwv2oA0/view?usp=sharing)
 
 ## Redes sociales y contacto
 
