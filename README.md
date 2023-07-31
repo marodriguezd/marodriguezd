@@ -24,4 +24,5 @@ Aunque por el momento no tengo ningún trabajo público importante, estoy trabaj
 
 * [LinkedIn](https://www.linkedin.com/in/marodriguezd/)
 * [Twitter](https://twitter.com/marodriguezd_)
+* [Mastodon](https://mastodon.social/@marodriguezd)
 * [Google Developer](https://g.dev/marodriguezd)
