@@ -1,6 +1,7 @@
 # Hola, soy Miguel Ángel 👋
 
 Soy un desarrollador de aplicaciones multiplataforma apasionado por el software libre. Me encantan los videojuegos, la cultura asiática, la espiritualidad y la filosofía.
+* [Certificado DAM](https://drive.google.com/file/d/1jIO5FMUhDv8K5D-E2DaWfMeG5UWawv-y/view?usp=sharing)
 
 ## Habilidades y experiencia
 
