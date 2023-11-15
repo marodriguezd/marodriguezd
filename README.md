@@ -17,6 +17,7 @@ Aunque por el momento no tengo ningún trabajo público importante, estoy trabaj
 
 ## Cursos hechos
 
+* [Aprende a programar con Python](https://drive.google.com/file/d/1fvBd_QbEvdFBS8P1MCmg61iqXeJg07lA/view?usp=sharing))
 * [¡Linux: de Noob a Pro en 9 horas!](https://drive.google.com/file/d/1OdWc8QZ82b4bGz7Zi1lK4tyYobwv2oA0/view?usp=sharing)
 * [Código Limpio del siglo XXI (Clean Code)](https://drive.google.com/file/d/1RAZG2SCb12tc277XwVcWQQOgGt08-pgd/view?usp=sharing)
 - [Curso de GIT y GITHUB desde CERO para PRINCIPIANTES de MoureDev by Brais Moure](https://www.youtube.com/watch?v=3GymExBkKjE&t=17549s)
