@@ -27,3 +27,4 @@ Aunque por el momento no tengo ningún trabajo público importante, estoy trabaj
 
 * [LinkedIn](https://www.linkedin.com/in/marodriguezd/)
 * [Google Developer](https://g.dev/marodriguezd)
+* Email: migueadali@gmail.com
