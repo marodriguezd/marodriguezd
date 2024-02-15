@@ -15,7 +15,6 @@ Soy un desarrollador de aplicaciones multiplataforma apasionado por el software 
 ## Proyectos destacados
 
 * [ChatGPT-Desktop-UI](https://github.com/marodriguezd/ChatGPT-Desktop-UI)
-> Es mi proyecto personal del cual busco alcanzar la mejor versión posible. Aunque siga en desarrollo de cara a mejoras es 100% funcional.
 
 ## Cursos hechos
 
