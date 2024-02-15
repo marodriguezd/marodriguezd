@@ -1,6 +1,9 @@
 # Hola, soy Miguel Ángel 👋
 
 Soy un desarrollador de aplicaciones multiplataforma apasionado por el software libre. Me encantan los videojuegos, la cultura asiática, la espiritualidad y la filosofía.
+
+Además me gusta usar las nuevas tecnologías como todo el tema de Inteligencia Artifical (GPT principalmente) tanto a nivel personal como en los proyectos. Ya que ahorran tiempo, enseñan y reducen problemas si se sabe usar correctamente. Sobre todo si el Front no es lo tuyo 😂 o necesitas apoyo.
+
 * [Certificado DAM](https://drive.google.com/file/d/1jIO5FMUhDv8K5D-E2DaWfMeG5UWawv-y/view?usp=sharing)
 * [Currículum Vitae](https://drive.google.com/file/d/1ZTt-DaqL3oUQ4ycrnObyl_zCr3BnalRe/view?usp=sharing)
 
