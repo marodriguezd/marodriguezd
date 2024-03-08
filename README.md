@@ -31,5 +31,4 @@ Además me gusta usar las nuevas tecnologías como todo el tema de Inteligencia 
 ## Redes sociales y contacto
 
 * [LinkedIn](https://www.linkedin.com/in/marodriguezd/)
-* [Google Developer](https://g.dev/marodriguezd)
 * Email: migueadali@gmail.com
