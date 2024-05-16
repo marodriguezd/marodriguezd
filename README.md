@@ -10,11 +10,11 @@ Además me gusta usar las nuevas tecnologías como todo el tema de Inteligencia 
 
 ## Habilidades y experiencia
 
-* 💻 Java, Python, VBA (Excel)
+* 💻 Java, Python, VBA (Excel), Rust (In Progress)
 * 🌐 HTML, CSS
 * 📦 MySQL, MongoDB, SQL, PLSQL
 * 📄 JSON, XML
-* 🛠️ NetBeans, Eclipse, PyCharm, Visual Studio Code
+* 🛠️ Eclipse, PyCharm, Visual Studio Code, RustRover (In Progress)
 
 ## Proyectos destacados
 
