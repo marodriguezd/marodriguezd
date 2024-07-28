@@ -2,7 +2,7 @@
 
 Soy un desarrollador de aplicaciones multiplataforma apasionado por el software libre. Me encantan los videojuegos, la cultura asiática, la espiritualidad y la filosofía.
 
-Además me gusta usar las nuevas tecnologías como todo el tema de Inteligencia Artifical (GPT principalmente) tanto a nivel personal como en los proyectos. Ya que ahorran tiempo, enseñan y reducen problemas si se sabe usar correctamente. Sobre todo si el Front no es lo tuyo 😂 o necesitas apoyo.
+Además me gusta usar las nuevas tecnologías como todo el tema de Inteligencia Artifical tanto a nivel personal como en los proyectos manteniendo siempre una ética y cierta privacidad. Ya que ahorran tiempo, enseñan y reducen problemas si se sabe usar correctamente. Sobre todo si el Front no es lo tuyo 😂 o necesitas apoyo en general.
 
 * [Certificado DAM](https://drive.google.com/file/d/1jIO5FMUhDv8K5D-E2DaWfMeG5UWawv-y/view?usp=sharing)
 * [Título DAM](https://drive.google.com/file/d/1xfJCtEp8yDDKAQCvA8JH6Rq_oidSw6uM/view?usp=sharing)
@@ -12,13 +12,13 @@ Además me gusta usar las nuevas tecnologías como todo el tema de Inteligencia 
 
 * 💻 Java, Python, VBA (Excel), Rust (In Progress)
 * 🌐 HTML, CSS
-* 📦 MySQL, MongoDB, SQL, PLSQL
+* 📦 MySQL, MongoDB...
 * 📄 JSON, XML
-* 🛠️ Eclipse, PyCharm, Visual Studio Code, RustRover (In Progress)
+* 🛠️ Eclipse, JetBrains IDEs, Visual Studio Code, Android Studio + Kotlin (In Progress)
 
 ## Proyectos destacados
 
-* [ChatGPT-Desktop-UI](https://github.com/marodriguezd/ChatGPT-Desktop-UI)
+* [ChatGPT-Desktop-UI](https://github.com/marodriguezd/ChatGPT-Desktop-UI) [De momento]
 
 ## Cursos hechos
 
