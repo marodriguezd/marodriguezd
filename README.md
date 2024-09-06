@@ -6,7 +6,7 @@ Además me gusta usar las nuevas tecnologías como todo el tema de Inteligencia 
 
 * [Certificado DAM](https://drive.google.com/file/d/1jIO5FMUhDv8K5D-E2DaWfMeG5UWawv-y/view?usp=sharing)
 * [Título DAM](https://drive.google.com/file/d/1xfJCtEp8yDDKAQCvA8JH6Rq_oidSw6uM/view?usp=sharing)
-* [Currículum Vitae](https://drive.google.com/file/d/1ZTt-DaqL3oUQ4ycrnObyl_zCr3BnalRe/view?usp=sharing)
+* [Currículum Vitae](https://drive.google.com/file/d/1HGWifGs-2Hyci2yCWkyYQW5DNQ15egpF/view?usp=sharing)
 
 ## Habilidades y experiencia
 
