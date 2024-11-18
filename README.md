@@ -18,7 +18,7 @@ Además me gusta usar las nuevas tecnologías como todo el tema de Inteligencia 
 
 ## Proyectos destacados
 
-* [ChatGPT-Desktop-UI](https://github.com/marodriguezd/ChatGPT-Desktop-UI) [De momento]
+* [SRT4U]([https://github.com/marodriguezd/ChatGPT-Desktop-UI](https://github.com/marodriguezd/SRT4U))
 
 ## Cursos hechos
 
