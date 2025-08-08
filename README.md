@@ -11,7 +11,6 @@ Además me gusta usar las nuevas tecnologías como todo el tema de Inteligencia 
 ## Habilidades y experiencia
 
 * 💻 Java, Python, VBA (Excel)
-<!--, Rust (In Progress)-->
 * 🌐 HTML, CSS
 * 📦 MySQL, MongoDB...
 * 📄 JSON, XML
@@ -23,7 +22,8 @@ Además me gusta usar las nuevas tecnologías como todo el tema de Inteligencia 
 * [SRT4U](https://github.com/marodriguezd/SRT4U)
 
 <!--
-## Cursos hechos
+DE LA SECCIÓN DE COSAS HACIENDO: , Rust (In Progress)
+DE LA SECCIÓN ELIMINADA POR AHORA: ## Cursos hechos
 
 * [Aprende a programar con Python](https://drive.google.com/file/d/1fvBd_QbEvdFBS8P1MCmg61iqXeJg07lA/view?usp=sharing)
 * [Código Limpio del siglo XXI (Clean Code)](https://drive.google.com/file/d/1RAZG2SCb12tc277XwVcWQQOgGt08-pgd/view?usp=sharing)
