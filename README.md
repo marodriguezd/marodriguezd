@@ -12,6 +12,7 @@ Además me gusta usar las nuevas tecnologías como todo el tema de Inteligencia 
 
 * 💻 Java, Python, VBA (Excel)
 * 🌐 HTML, CSS
+* 🤖 Generative AI
 * 📦 MySQL, MongoDB...
 * 📄 JSON, XML
 * 🛠️ Eclipse, JetBrains IDEs, Visual Studio Code, Flutter + Dart (In Progress)
