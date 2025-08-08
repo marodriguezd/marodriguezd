@@ -8,6 +8,11 @@ Además me gusta usar las nuevas tecnologías como todo el tema de Inteligencia 
 * [Título DAM](https://drive.google.com/file/d/1xfJCtEp8yDDKAQCvA8JH6Rq_oidSw6uM/view?usp=sharing)
 * [Currículum Vitae](https://drive.google.com/file/d/1HGWifGs-2Hyci2yCWkyYQW5DNQ15egpF/view?usp=sharing)
 
+## Proyectos destacados
+
+* [Bubble Breathing](https://github.com/marodriguezd/Bubble-Breathing)
+* [SRT4U](https://github.com/marodriguezd/SRT4U)
+
 ## Habilidades y experiencia
 
 * 💻 Java, Python, VBA (Excel)
@@ -16,11 +21,6 @@ Además me gusta usar las nuevas tecnologías como todo el tema de Inteligencia 
 * 📦 MySQL, MongoDB...
 * 📄 JSON, XML
 * 🛠️ Eclipse, JetBrains IDEs, Visual Studio Code, Flutter + Dart (In Progress)
-
-## Proyectos destacados
-
-* [Bubble Breathing](https://github.com/marodriguezd/Bubble-Breathing)
-* [SRT4U](https://github.com/marodriguezd/SRT4U)
 
 <!--
 DE LA SECCIÓN DE COSAS HACIENDO: , Rust (In Progress)
