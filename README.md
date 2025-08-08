@@ -10,16 +10,17 @@ Además me gusta usar las nuevas tecnologías como todo el tema de Inteligencia 
 
 ## Habilidades y experiencia
 
-* 💻 Java, Python, VBA (Excel), Rust (In Progress)
+* 💻 Java, Python, VBA (Excel)
+<!--, Rust (In Progress)-->
 * 🌐 HTML, CSS
 * 📦 MySQL, MongoDB...
 * 📄 JSON, XML
-* 🛠️ Eclipse, JetBrains IDEs, Visual Studio Code, Android Studio + Kotlin (In Progress)
+* 🛠️ Eclipse, JetBrains IDEs, Visual Studio Code, Flutter + Dart (In Progress)
 
 ## Proyectos destacados
 
-* [SRT4U](https://github.com/marodriguezd/SRT4U)
 * [Bubble Breathing](https://github.com/marodriguezd/Bubble-Breathing)
+* [SRT4U](https://github.com/marodriguezd/SRT4U)
 
 <!--
 ## Cursos hechos
