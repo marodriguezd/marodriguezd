@@ -24,7 +24,7 @@
 ## Formación y certificaciones
 - Grado Superior en Desarrollo de Aplicaciones Multiplataforma (2023). [Certificado](https://drive.google.com/file/d/1jIO5FMUhDv8K5D-E2DaWfMeG5UWawv-y/view?usp=sharing) y [Título](https://drive.google.com/file/d/1xfJCtEp8yDDKAQCvA8JH6Rq_oidSw6uM/view?usp=sharing)
 - Generative AI Foundations — IMMUNE Technology Institute (2025). [Certificado](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/153368008)
-- Curso DATA Analytics — EOI (2025). [Certificado](placeholder)
+- Curso DATA Analytics — EOI (2025). [Certificado](https://drive.google.com/file/d/1375M_wmUo-_BSgOXT73MRQkTk335y9ke/view?usp=sharing)
 
 ---
 
