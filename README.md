@@ -31,20 +31,6 @@ Soy un desarrollador orientado al **Backend**, las **APIs REST** y la **arquitec
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marodriguezd&theme=radical" width="100%" alt="Gráfico de Actividad" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/marodriguezd?label=Seguidores&style=for-the-badge&logo=github&color=24292e" />
-  <img src="https://img.shields.io/github/stars/marodriguezd?label=Estrellas&style=for-the-badge&logo=github&color=24292e" />
-  <img src="https://img.shields.io/github/languages/count/marodriguezd/Bubble-Breathing?label=Lenguajes&style=for-the-badge&logo=github&color=24292e" />
-</p>
-
----
-
 ### 📂 Proyectos Destacados
 
 - 🫧 **[Bubble Breathing](https://github.com/marodriguezd/Bubble-Breathing)** — Herramienta interactiva para ejercicios de respiración y bienestar.
@@ -57,3 +43,17 @@ Soy un desarrollador orientado al **Backend**, las **APIs REST** y la **arquitec
 - 🎓 **Grado Superior en DAM** | [Certificado](https://drive.google.com/file/d/1jIO5FMUhDv8K5D-E2DaWfMeG5UWawv-y/view?usp=sharing) · [Título](https://drive.google.com/file/d/1xfJCtEp8yDDKAQCvA8JH6Rq_oidSw6uM/view?usp=sharing) (2023)
 - 📜 **Generative AI Foundations** | [Certificado](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/153368008) (2025)
 - 📊 **Curso DATA Analytics (EOI)** | [Certificado](https://drive.google.com/file/d/1375M_wmUo-_BSgOXT73MRQkTk335y9ke/view?usp=sharing) (2025)
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marodriguezd&theme=radical" width="100%" alt="Gráfico de Actividad" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/marodriguezd?label=Seguidores&style=for-the-badge&logo=github&color=24292e" />
+  <img src="https://img.shields.io/github/stars/marodriguezd?label=Estrellas&style=for-the-badge&logo=github&color=24292e" />
+  <img src="https://img.shields.io/github/languages/count/marodriguezd/Bubble-Breathing?label=Lenguajes&style=for-the-badge&logo=github&color=24292e" />
+</p>
