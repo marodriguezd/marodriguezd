@@ -1,40 +1,33 @@
-# Hola, soy Miguel Ángel 👋
+# Miguel Ángel Rodríguez Dalí — Persona desarrolladora de aplicaciones multiplataforma
 
-Soy un desarrollador de aplicaciones multiplataforma apasionado por el software libre. Me encantan los videojuegos, la cultura asiática, la espiritualidad y la filosofía.
+**Backend · APIs REST · Docker · Integración**
 
-Además me gusta usar las nuevas tecnologías como todo el tema de Inteligencia Artifical tanto a nivel personal como en los proyectos manteniendo siempre una ética y cierta privacidad. Ya que ahorran tiempo, enseñan y reducen problemas si se sabe usar correctamente. Sobre todo si el Front no es lo tuyo 😂 o necesitas apoyo en general.
+> Persona desarrolladora con formación en Desarrollo de Aplicaciones Multiplataforma (DAM), orientada a backend y APIs. Enfoco el trabajo en soluciones eficientes, mantenibles y orientadas al producto.
 
-* [Certificado DAM](https://drive.google.com/file/d/1jIO5FMUhDv8K5D-E2DaWfMeG5UWawv-y/view?usp=sharing)
-* [Título DAM](https://drive.google.com/file/d/1xfJCtEp8yDDKAQCvA8JH6Rq_oidSw6uM/view?usp=sharing)
-<!--
-* [Currículum Vitae](https://drive.google.com/file/d/1HGWifGs-2Hyci2yCWkyYQW5DNQ15egpF/view?usp=sharing)
--->
+---
+
 ## Proyectos destacados
+- **Bubble Breathing** — https://github.com/marodriguezd/Bubble-Breathing  
+- **SRT4U** — https://github.com/marodriguezd/SRT4U
 
-* [Bubble Breathing](https://github.com/marodriguezd/Bubble-Breathing)
-* [SRT4U](https://github.com/marodriguezd/SRT4U)
+---
 
-## Habilidades y experiencia
+## Tecnologías y habilidades
+- **Lenguajes:** Java, Python
+- **Frameworks / Backend:** Spring Boot, APIs RESTful 
+- **Bases de datos:** MySQL, MongoDB...
+- **Contenedores / Orquestación:** Docker, Kubernetes...
+- **Formatos / Otros:** Git, JSON, XML, VS Code...
 
-* 💻 Java, Python, VBA (Excel)
-* 🌐 HTML, CSS
-* 🤖 Generative AI
-* 📦 MySQL, MongoDB...
-* 📄 JSON, XML
-* 🛠️ Eclipse, JetBrains IDEs, Visual Studio Code, Flutter + Dart (In Progress)
+---
 
-<!--
-DE LA SECCIÓN DE COSAS HACIENDO: , Rust (In Progress)
-DE LA SECCIÓN ELIMINADA POR AHORA: ## Cursos hechos
+## Formación y certificaciones
+- Grado Superior en Desarrollo de Aplicaciones Multiplataforma (2023). [Certificado](https://drive.google.com/file/d/1jIO5FMUhDv8K5D-E2DaWfMeG5UWawv-y/view?usp=sharing) y [Título](https://drive.google.com/file/d/1xfJCtEp8yDDKAQCvA8JH6Rq_oidSw6uM/view?usp=sharing)
+- Generative AI Foundations — IMMUNE Technology Institute (2025). [Certificado](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/153368008)
+- Curso DATA Analytics — EOI (2025). [Certificado](placeholder)
 
-* [Aprende a programar con Python](https://drive.google.com/file/d/1fvBd_QbEvdFBS8P1MCmg61iqXeJg07lA/view?usp=sharing)
-* [Código Limpio del siglo XXI (Clean Code)](https://drive.google.com/file/d/1RAZG2SCb12tc277XwVcWQQOgGt08-pgd/view?usp=sharing)
-* [¡Linux: de Noob a Pro en 9 horas!](https://drive.google.com/file/d/1OdWc8QZ82b4bGz7Zi1lK4tyYobwv2oA0/view?usp=sharing)
-- [Curso de GIT y GITHUB desde CERO para PRINCIPIANTES de MoureDev by Brais Moure](https://www.youtube.com/watch?v=3GymExBkKjE&t=17549s)
-- En lo anterior salgo como marodriguezd en su ejercicio práctico que demuestra el tener conocimientos: [repositorio donde sale mi usuario](https://github.com/mouredev/hello-git/blob/main/hello.md), [repositorio padre del curso](https://github.com/mouredev).
--->
+---
 
-## Redes sociales y contacto
-
-* [LinkedIn](https://www.linkedin.com/in/marodriguezd/)
-* Email: migueadali@gmail.com
+## Contacto
+- LinkedIn: https://www.linkedin.com/in/marodriguezd/  
+- Email: migueadali@gmail.com
