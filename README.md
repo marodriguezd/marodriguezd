@@ -1,8 +1,8 @@
-# Miguel Ángel Rodríguez Dalí — Persona desarrolladora de aplicaciones multiplataforma
+# Miguel Ángel Rodríguez Dalí — Desarrollador de Aplicaciones Multiplataforma
 
 **Backend · APIs REST · Docker · Integración**
 
-> Persona desarrolladora con formación en Desarrollo de Aplicaciones Multiplataforma (DAM), orientada a backend y APIs. Enfoco el trabajo en soluciones eficientes, mantenibles y orientadas al producto.
+> Soy una persona con formación en Desarrollo de Aplicaciones Multiplataforma (DAM), orientada a backend y APIs. Enfoco el trabajo en soluciones eficientes, mantenibles y orientadas al producto.
 
 ---
 
