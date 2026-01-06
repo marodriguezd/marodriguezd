@@ -36,6 +36,7 @@ Soy un desarrollador orientado al **Backend**, las **APIs REST** y la **arquitec
 - 🫧 **[Bubble Breathing](https://github.com/marodriguezd/Bubble-Breathing)** — Herramienta interactiva para ejercicios de respiración y bienestar.
 - 🎬 **[SRT4U](https://github.com/marodriguezd/SRT4U)** — Proyecto para la gestión optimizada de subtítulos en formato SRT.
 - 📝 **[Glassnotes](https://github.com/marodriguezd/Glassnotes)** — Bloc de notas con diseño Glassmorphism y sistema de gestión por pestañas.
+- 🚿 **[HairWashTracker](https://github.com/marodriguezd/HairWashTracker)** — App para el seguimiento de lavados capilares.
 
 ---
 
