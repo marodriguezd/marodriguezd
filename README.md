@@ -45,7 +45,8 @@ Soy un desarrollador orientado al **Backend**, las **APIs REST** y la **arquitec
 - 🎓 **Grado Superior en DAM** | [Certificado](https://drive.google.com/file/d/1jIO5FMUhDv8K5D-E2DaWfMeG5UWawv-y/view?usp=sharing) · [Título](https://drive.google.com/file/d/1xfJCtEp8yDDKAQCvA8JH6Rq_oidSw6uM/view?usp=sharing) (2023)
 - 📊 **Curso DATA Analytics (EOI – Garantía Juvenil)** | [Certificado](https://drive.google.com/file/d/1375M_wmUo-_BSgOXT73MRQkTk335y9ke/view?usp=sharing) (2025)
 - 📜 **Generative AI Foundations (AWS)** | [Certificado](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/153368008) (2025)
-- 🤖 **Claude Code in Action (Anthropic)** | [Certificado](https://drive.google.com/file/d/1iiLmLQaRGBJDyVq4x7xD9HncF6T9lvaB/view?usp=sharing) (2026)
+- 🤖 **Claude Code in Action (Anthropic)** | [Certificado](https://verify.skilljar.com/c/fv89cv87c27c) (2026)
+
 
 ---
 
