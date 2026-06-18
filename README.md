@@ -39,6 +39,7 @@ Soy un desarrollador orientado al **Backend**, las **APIs REST** y la **arquitec
 - 📝 **[Glassnotes](https://github.com/marodriguezd/Glassnotes)** — Bloc de notas con diseño Glassmorphism y sistema de gestión por pestañas.
 - 🚿 **[HairWashTracker](https://github.com/marodriguezd/HairWashTracker)** — App para el seguimiento de lavados capilares.
 - ⏱️ **[TaskFlow](https://github.com/marodriguezd/TaskFlow)** - App de tareas con temporizadores para TDAH.
+- 🤖 **[YouTube Summarizer](https://github.com/marodriguezd/youtube-summarizer)** — Bot de Telegram + CLI que transcribe y resume vídeos de YouTube con Gemini 3.1 Flash-Lite.
 
 ---
 
