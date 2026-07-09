@@ -39,7 +39,7 @@ Soy un desarrollador orientado al **Backend**, las **APIs REST** y la **arquitec
 - 🚿 **[HairWashTracker](https://github.com/marodriguezd/HairWashTracker)** — App para el seguimiento de lavados capilares.
 - ⏱️ **[TaskFlow](https://github.com/marodriguezd/TaskFlow)** - App de tareas con temporizadores para TDAH.
 - 🤖 **[YouTube Summarizer](https://github.com/marodriguezd/youtube-summarizer)** — Bot de Telegram + CLI que transcribe y resume vídeos de YouTube con Gemini 3.1 Flash-Lite.
-- 🎙️ **[Android Transcribe App](https://github.com/marodriguezd/android_transcribe_app)** — Teclado transcriptor de voz a texto local para Android con refinamiento opcional mediante LLM.
+- 🎙️ **[Android Transcribe App](https://github.com/marodriguezd/android_transcribe_app)** — Fork del teclado transcriptor de voz a texto local para Android, extendido para añadir refinamiento opcional mediante LLM.
 
 ---
 
