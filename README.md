@@ -34,6 +34,7 @@ Soy un desarrollador orientado al **Backend**, las **APIs REST** y la **arquitec
 ### 📂 Proyectos Destacados
 
 - 🫧 **[Bubble Breathing](https://github.com/marodriguezd/Bubble-Breathing)** — Herramienta interactiva para ejercicios de respiración y bienestar.
+- 🌊 **[HydroCycle](https://github.com/marodriguezd/Hydrocicle)** — Temporizador interactivo de terapia de contraste y exposición al frío.
 - 🎬 **[SRT4U](https://github.com/marodriguezd/SRT4U)** — Proyecto para la gestión optimizada de subtítulos en formato SRT.
 - ✂️ **[Video-Slice-TUI](https://github.com/marodriguezd/Video-Slice-TUI)** — Herramienta TUI de alto rendimiento para segmentar, recortar y fusionar vídeos desde la terminal.
 - 🚿 **[HairWashTracker](https://github.com/marodriguezd/HairWashTracker)** — App para el seguimiento de lavados capilares.
