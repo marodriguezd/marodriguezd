@@ -61,7 +61,7 @@ Soy **Desarrollador de Aplicaciones** y **Analista de Datos** enfocado en **Back
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marodriguezd&theme=radical" width="100%" alt="Gráfico de Actividad" />
+  <img src="https://ghchart.rshah.org/0077B5/marodriguezd" width="100%" alt="Gráfico de Contribuciones de GitHub" />
 </p>
 
 <p align="center">
