@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Miguel Ángel Rodríguez Dalí profile dashboard">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F5F0F7"/><stop offset=".58" stop-color="#EAF3F7"/><stop offset="1" stop-color="#F8EAF1"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#009FC0"/><stop offset=".5" stop-color="#7657C6"/><stop offset="1" stop-color="#D95E9D"/></linearGradient>
+  <style>
+    .m{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+    .ink{fill:#253048}.muted{fill:#657189}.cyan{fill:#007F9C}.pink{fill:#B54883}.lav{fill:#684DB0}.green{fill:#238B63}.cream{fill:#7A5722}
+  </style>
+</defs>
+<rect width="1180" height="610" rx="18" fill="url(#bg)"/>
+<rect x="14" y="14" width="1152" height="582" rx="14" fill="#FFFFFF" fill-opacity=".68" stroke="#C8CFDC"/>
+<path d="M14 62H1166" stroke="#C8CFDC"/>
+<circle cx="38" cy="38" r="6" fill="#FF5F57"/><circle cx="59" cy="38" r="6" fill="#FEBC2E"/><circle cx="80" cy="38" r="6" fill="#28C840"/>
+<text x="590" y="43" text-anchor="middle" class="m muted" font-size="13">bash — profile.yml — Fedora Linux</text>
+<rect x="35" y="84" width="430" height="486" rx="8" fill="#F6F7FB" stroke="#C8CFDC"/>
+<path d="M35 122H465" stroke="#C8CFDC"/>
+<text x="51" y="109" class="m lav" font-size="13" font-weight="700" letter-spacing="1.4">MARODRIGUEZD.SYS</text>
+<text x="449" y="109" text-anchor="end" class="m muted" font-size="11">PROFILE / 01</text>
+<text x="54" y="154" class="m cyan" font-size="18" font-weight="700">$ whoami</text>
+<text x="54" y="187" class="m ink" font-size="25" font-weight="700">Miguel Ángel</text><text x="54" y="217" class="m ink" font-size="25" font-weight="700">Rodríguez Dalí</text>
+<text x="54" y="246" class="m pink" font-size="15">junior-data-analyst</text>
+<path d="M54 267H447" stroke="#D7DCE7"/>
+<text x="54" y="297" class="m cyan" font-size="14">$ cat /etc/os-release</text>
+<text x="54" y="321" class="m muted" font-size="14">NAME=Fedora Linux</text><text x="54" y="343" class="m muted" font-size="14">PLATFORM=Linux</text><text x="54" y="365" class="m green" font-size="14">STATUS=READY</text>
+<text x="54" y="398" class="m cyan" font-size="14">$ focus --current</text>
+<text x="54" y="424" class="m muted" font-size="14">DATA ANALYTICS</text><text x="54" y="446" class="m muted" font-size="14">MACHINE LEARNING</text><text x="54" y="468" class="m muted" font-size="14">GENERATIVE AI / LLMs</text>
+<text x="54" y="513" class="m pink" font-size="13">● building real projects</text><text x="54" y="535" class="m lav" font-size="13">● Linux-native workflow</text>
+<rect x="489" y="84" width="656" height="486" rx="8" fill="#F6F7FB" stroke="#C8CFDC"/>
+<path d="M489 122H1145" stroke="#C8CFDC"/>
+<text x="507" y="109" class="m lav" font-size="13" font-weight="700" letter-spacing="1.3">SYSTEM OVERVIEW</text><text x="1128" y="109" text-anchor="end" class="m muted" font-size="11">LIVE SESSION</text>
+<rect x="510" y="144" width="620" height="104" rx="7" fill="#FFFFFF" stroke="#D2D8E3"/>
+<text x="530" y="170" class="m pink" font-size="12">CURRENT PIPELINE</text>
+<text x="530" y="201" class="m cream" font-size="18">DATA</text><text x="585" y="201" class="m muted" font-size="18">→</text><text x="613" y="201" class="m cream" font-size="18">ANALYZE</text><text x="695" y="201" class="m muted" font-size="18">→</text><text x="723" y="201" class="m cream" font-size="18">MODEL</text><text x="790" y="201" class="m muted" font-size="18">→</text><text x="818" y="201" class="m cream" font-size="18">AI</text><text x="850" y="201" class="m muted" font-size="18">→</text><text x="878" y="201" class="m cream" font-size="18">SHIP</text>
+<rect x="530" y="219" width="565" height="7" rx="3.5" fill="#E1E6EF"/>
+<rect x="530" y="219" width="390" height="7" rx="3.5" fill="url(#accent)"><animate attributeName="width" values="390;470;390" dur="4s" repeatCount="indefinite"/></rect>
+<rect x="510" y="270" width="300" height="135" rx="7" fill="#FFFFFF" stroke="#D2D8E3"/>
+<text x="530" y="297" class="m pink" font-size="12">ENVIRONMENT</text><text x="530" y="325" class="m muted" font-size="14">OS</text><text x="630" y="325" class="m ink" font-size="14">Fedora Linux</text><text x="530" y="349" class="m muted" font-size="14">STACK</text><text x="630" y="349" class="m ink" font-size="14">Python · SQL · AI</text><text x="530" y="373" class="m muted" font-size="14">TOOLS</text><text x="630" y="373" class="m ink" font-size="14">Git · Docker · CI/CD</text><text x="530" y="397" class="m green" font-size="13">● native Linux workflow</text>
+<rect x="830" y="270" width="300" height="135" rx="7" fill="#FFFFFF" stroke="#D2D8E3"/>
+<text x="850" y="297" class="m pink" font-size="12">ACTIVE MODULES</text><text x="850" y="326" class="m cyan" font-size="13">[01]</text><text x="895" y="326" class="m muted" font-size="13">analytics</text><text x="850" y="350" class="m cyan" font-size="13">[02]</text><text x="895" y="350" class="m muted" font-size="13">machine_learning</text><text x="850" y="374" class="m cyan" font-size="13">[03]</text><text x="895" y="374" class="m muted" font-size="13">generative_ai</text><text x="850" y="398" class="m cyan" font-size="13">[04]</text><text x="895" y="398" class="m muted" font-size="13">software_engineering</text>
+<rect x="510" y="429" width="620" height="116" rx="7" fill="#FFFFFF" stroke="#D2D8E3"/>
+<text x="530" y="456" class="m pink" font-size="12">$ journalctl --user --follow</text><text x="530" y="481" class="m muted" font-size="13">[READY] portfolio workspace initialized</text><text x="530" y="505" class="m muted" font-size="13">[ OK ] SRT4U · TaskFlow · TUI tooling</text><text x="530" y="529" class="m cream" font-size="13">[LIVE] learning → building → iterating <tspan class="cyan">▌</tspan></text>
+<rect x="35" y="578" width="1110" height="1" fill="#D7DCE7"/>
+<rect x="36" y="20" width="260" height="3" rx="1.5" fill="url(#accent)"><animate attributeName="x" values="36;882;36" dur="8s" repeatCount="indefinite"/></rect>
+</svg>
