@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="210" viewBox="0 0 980 210" role="img" aria-label="Animated retro data terminal">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#0A0D18"/><stop offset="0.55" stop-color="#11162A"/><stop offset="1" stop-color="#0B1020"/></linearGradient>
+    <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#00D9FF"/><stop offset="0.52" stop-color="#6C63FF"/><stop offset="1" stop-color="#FF3FA4"/></linearGradient>
+    <style>.mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}.cream{fill:#FFD98A}.muted{fill:#AAB3D1}.cyan{fill:#38E8FF}.pink{fill:#FF62C0}.green{fill:#7BFFB2}</style>
+  </defs>
+  <rect width="980" height="210" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="978" height="208" rx="18" fill="none" stroke="#8B5CF6" stroke-width="2"/>
+  <rect x="22" y="18" width="936" height="4" rx="2" fill="url(#bar)"><animate attributeName="x" from="22" to="60" dur="3.5s" repeatCount="indefinite"/></rect>
+  <circle cx="28" cy="42" r="5" fill="#FF5F57"/><circle cx="46" cy="42" r="5" fill="#FFBD2E"/><circle cx="64" cy="42" r="5" fill="#28C840"/>
+  <text x="82" y="47" class="mono muted" font-size="14">MARODRIGUEZD // DATA_TERMINAL</text>
+  <line x1="24" y1="59" x2="956" y2="59" stroke="#252C46"/><line x1="268" y1="73" x2="268" y2="193" stroke="#252C46"/>
+  <text x="42" y="87" class="mono cyan" font-size="13">$ whoami</text>
+  <text x="42" y="109" class="mono cream" font-size="16">Miguel Ángel Rodríguez Dalí</text>
+  <text x="42" y="136" class="mono cyan" font-size="13">$ focus --current</text>
+  <text x="42" y="158" class="mono muted" font-size="14">DATA ANALYTICS / ML / GENERATIVE AI / LLMs</text>
+  <text x="42" y="184" class="mono green" font-size="13">● ONLINE  ·  BUILDING  ·  LEARNING</text>
+  <text x="298" y="87" class="mono pink" font-size="13">SYSTEM METRICS</text>
+  <text x="298" y="112" class="mono muted" font-size="13">python</text><rect x="370" y="103" width="300" height="10" rx="5" fill="#1F2640"/><rect x="370" y="103" width="238" height="10" rx="5" fill="#38E8FF"><animate attributeName="width" values="238;270;238" dur="3.2s" repeatCount="indefinite"/></rect>
+  <text x="298" y="137" class="mono muted" font-size="13">sql</text><rect x="370" y="128" width="300" height="10" rx="5" fill="#1F2640"/><rect x="370" y="128" width="214" height="10" rx="5" fill="#A78BFA"><animate attributeName="width" values="214;250;214" dur="2.7s" repeatCount="indefinite"/></rect>
+  <text x="298" y="162" class="mono muted" font-size="13">ai</text><rect x="370" y="153" width="300" height="10" rx="5" fill="#1F2640"/><rect x="370" y="153" width="255" height="10" rx="5" fill="#FF62C0"><animate attributeName="width" values="255;285;255" dur="3.8s" repeatCount="indefinite"/></rect>
+  <text x="298" y="188" class="mono muted" font-size="13">status</text><text x="370" y="188" class="mono cream" font-size="13">READY</text><rect x="420" y="178" width="10" height="15" fill="#FFD98A"><animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></rect>
+  <rect x="720" y="78" width="210" height="106" rx="12" fill="#0C1122" stroke="#7A5AF8"/>
+  <text x="738" y="99" class="mono pink" font-size="12">MODULES</text><text x="738" y="123" class="mono muted" font-size="12">[01] analytics</text><text x="738" y="143" class="mono muted" font-size="12">[02] machine_learning</text><text x="738" y="163" class="mono muted" font-size="12">[03] generative_ai</text><text x="738" y="183" class="mono muted" font-size="12">[04] software_engineering</text>
+</svg>
