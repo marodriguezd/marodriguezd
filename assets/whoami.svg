@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="390" viewBox="0 0 960 390" role="img" aria-label="Terminal card for Miguel Ángel Rodríguez Dalí">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#45E9FF"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#FF79C6"/></linearGradient>
+  <filter id="soft"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>.m{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}.muted{fill:#909BB4}.cream{fill:#FFE1A6}.cyan{fill:#45E9FF}.pink{fill:#FF79C6}.green{fill:#8AF7BE}.lav{fill:#C7B6FF}</style>
+</defs>
+<rect width="960" height="390" rx="18" fill="#0C111E"/><rect x="9" y="9" width="942" height="372" rx="13" fill="none" stroke="url(#g)" stroke-width="2"/>
+<circle cx="35" cy="35" r="5" fill="#FF5F57"/><circle cx="54" cy="35" r="5" fill="#FEBC2E"/><circle cx="73" cy="35" r="5" fill="#28C840"/>
+<text x="98" y="41" class="m muted" font-size="15">marodriguezd · profile shell · Fedora Linux</text><path d="M29 58H931" stroke="#343D54"/>
+<rect x="29" y="78" width="580" height="271" rx="9" fill="#11182A" stroke="#9A84E7" stroke-width="1.5"/>
+<text x="48" y="110" class="m cyan" font-size="20" font-weight="700">❯ whoami</text>
+<text x="48" y="143" class="m cream" font-size="19">miguel_angel</text><text x="205" y="143" class="m muted" font-size="19">—</text><text x="229" y="143" class="m pink" font-size="19">Data Analyst / Developer</text>
+<path d="M48 166H590" stroke="#343D54"/>
+<text x="48" y="196" class="m muted" font-size="17">environment:</text><text x="194" y="196" class="m lav" font-size="17">Fedora Linux</text>
+<text x="48" y="225" class="m muted" font-size="17">mission:</text><text x="194" y="225" class="m green" font-size="17">turn data into useful software</text>
+<text x="48" y="267" class="m cyan" font-size="20" font-weight="700">❯ ls focus/</text>
+<text x="48" y="299" class="m pink" font-size="16">analytics/</text><text x="190" y="299" class="m muted" font-size="16">Python · SQL · Pandas</text>
+<text x="48" y="326" class="m pink" font-size="16">ai/</text><text x="190" y="326" class="m muted" font-size="16">ML · Generative AI · LLMs</text>
+<rect x="637" y="78" width="294" height="271" rx="9" fill="#11182A" stroke="#9A84E7" stroke-width="1.5"/>
+<text x="661" y="111" class="m cream" font-size="17">linux runtime</text>
+<circle cx="784" cy="180" r="52" fill="#1B263E" stroke="#45E9FF" stroke-width="2" filter="url(#soft)"/>
+<text x="784" y="170" text-anchor="middle" class="m cyan" font-size="25" font-weight="700">LINUX</text><text x="784" y="191" text-anchor="middle" class="m muted" font-size="12">FEDORA</text>
+<path d="M661 238H907" stroke="#343D54"/>
+<text x="661" y="264" class="m muted" font-size="14">workflow: native</text><text x="661" y="286" class="m muted" font-size="14">shell: ready</text><text x="661" y="308" class="m muted" font-size="14">status: online</text>
+<text x="661" y="331" class="m green" font-size="13">● system ready</text>
+</svg>
