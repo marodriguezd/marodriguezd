@@ -137,11 +137,11 @@ Python 3.13 + PyQt6 desktop application with CLI, FastAPI, translation/transcrip
 
 **Desktop Productivity Application**
 
-Java 21 + JavaFX + SQLite with Pomodoro, persistence, history, themes, i18n, packaging and CI/CD.
+Java 21 + JavaFX + SQLite cross-platform task manager with Pomodoro timers, local persistence, history, themes, i18n, native packaging and CI/CD.
 
 <p>
 <a href="https://github.com/marodriguezd/TaskFlow">
-<img src="https://img.shields.io/badge/OPEN_REPO-45E9FF?style=flat-square&logo=github&logoColor=11162A&labelColor=0A0D18">
+<img src="https://img.shields.io/badge/OPEN_REPO-45E9FF?style=flat-square&logo=github&logoColor=ffffff&labelColor=0A0D18">
 </a>
 </p>
 
@@ -173,7 +173,7 @@ React 19 + TypeScript + FastAPI local-first workspace with SQLite WASM, knowledg
 
 <p>
 <a href="https://github.com/marodriguezd/CrossedArts">
-<img src="https://img.shields.io/badge/OPEN_REPO-FFE1A6?style=flat-square&logo=github&logoColor=11162A&labelColor=0A0D18">
+<img src="https://img.shields.io/badge/OPEN_REPO-FFE1A6?style=flat-square&logo=github&logoColor=ffffff&labelColor=0A0D18">
 </a>
 </p>
 
