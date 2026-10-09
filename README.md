@@ -125,7 +125,7 @@
 Python 3.13 + PyQt6 desktop application with CLI, FastAPI, translation/transcription services, SQLite history, subtitle analytics/QA, FFmpeg, i18n and packaging.
 
 <p>
-<a href="https://github.com/marodriguezd/SRT4U">
+<a href="https://github.com/marodriguezd/SRT4U-Subtitle-Processor">
 <img src="https://img.shields.io/badge/OPEN_REPO-FF79C6?style=flat-square&logo=github&logoColor=ffffff&labelColor=0A0D18">
 </a>
 </p>
@@ -150,20 +150,32 @@ Java 21 + JavaFX + SQLite with Pomodoro, persistence, history, themes, i18n, pac
 <tr>
 <td width="50%" valign="top">
 
-### `03 / VIDEO-SLICE-TUI`
+### `03 / AURA TRANSCRIBE`
 
-**Terminal-first video tooling**
+**On-Device Speech & Live Subtitles**
 
-High-performance TUI for segmenting, trimming and merging video directly from the terminal.
+Java + Rust + GGML on-device speech-to-text for Android with Nemotron streaming ASR, IME keyboard, floating overlay and audio routing.
+
+<p>
+<a href="https://github.com/marodriguezd/Aura-Transcribe">
+<img src="https://img.shields.io/badge/OPEN_REPO-8B5CF6?style=flat-square&logo=github&logoColor=ffffff&labelColor=0A0D18">
+</a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### `04 / YOUTUBE SUMMARIZER`
+### `04 / CROSSEDARTS`
 
-**Transcription + summarization**
+**Learning Operating System**
 
-Telegram bot + CLI workflow for transcribing and summarizing YouTube videos with a Gemini-powered pipeline.
+React 19 + TypeScript + FastAPI local-first workspace with SQLite WASM, knowledge graph, spaced repetition (SM-2) and on-device AI.
+
+<p>
+<a href="https://github.com/marodriguezd/CrossedArts">
+<img src="https://img.shields.io/badge/OPEN_REPO-FFE1A6?style=flat-square&logo=github&logoColor=11162A&labelColor=0A0D18">
+</a>
+</p>
 
 </td>
 </tr>
