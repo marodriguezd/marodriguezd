@@ -69,7 +69,7 @@
 <text x="530" y="456" class="m pink" font-size="12">$ journalctl --user --follow</text>
 <text x="530" y="481" class="m muted" font-size="13">[READY] portfolio workspace initialized</text>
 <text x="530" y="505" class="m muted" font-size="13">[ OK ] SRT4U · TaskFlow · TUI tooling</text>
-<text x="530" y="529" class="m cream" font-size="13">[LIVE] learning → building → iterating<span class="cyan">▌</span>
+<text x="530" y="529" class="m cream" font-size="13">[LIVE] learning → building → iterating<tspan class="cyan">▌</tspan>
   <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
 </text>
 
