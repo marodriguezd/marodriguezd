@@ -17,7 +17,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=FF79C6&center=true&vCenter=true&width=900&height=45&lines=DATA+ANALYTICS+%7C+PYTHON+%7C+SQL;MACHINE+LEARNING+%7C+GENERATIVE+AI+%7C+LLMs;SOFTWARE+ENGINEERING+%E2%80%A2+LINUX+%E2%80%A2+BUILDING" alt="Animated profile focus">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=marodriguezd&style=flat&color=ff79c6&label=profile+views" alt="Profile views">
+
 
 </div>
 
@@ -43,7 +43,7 @@
   </thead>
   <tbody>
     <tr>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" align="left">
         <code>├─ ◈ data_ai:</code><br><br>
         <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=11162A" alt="Python">
         <img src="https://img.shields.io/badge/SQL-45E9FF?style=flat-square&logo=postgresql&logoColor=11162A" alt="SQL">
@@ -55,7 +55,7 @@
         <img src="https://img.shields.io/badge/LLMs-FF79C6?style=flat-square&logo=openai&logoColor=ffffff" alt="Large language models"><br>
         <sub><code>analysis · statistics · machine learning · generative AI</code></sub>
       </td>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" align="left">
         <code>├─ ◫ software_backend:</code><br><br>
         <img src="https://skillicons.dev/icons?i=java,spring,fastapi,sqlite,docker" alt="Java, Spring, FastAPI, SQLite and Docker"><br>
         <sub><code>Java · Spring Boot · FastAPI · SQLite · Docker</code></sub>
@@ -114,15 +114,15 @@
 
 ## `$ ls projects/`
 
-<table>
+<table width="100%" border="1" cellpadding="14" cellspacing="0">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### `01 / SRT4U`
 
 **Subtitle Processor**
 
-Python 3.13 + PyQt6 subtitle toolkit with desktop GUI and headless CLI, analytics/QA, SQLite history, translation providers and FFmpeg packaging. Optional extras add the FastAPI service and local Whisper transcription.
+Python 3.13 + PyQt6 subtitle suite with desktop GUI/CLI, QA analytics, SQLite history, translations and FFmpeg packaging. FastAPI and local Whisper are optional extras.
 
 <p>
 <a href="https://github.com/marodriguezd/SRT4U-Subtitle-Processor">
@@ -131,13 +131,13 @@ Python 3.13 + PyQt6 subtitle toolkit with desktop GUI and headless CLI, analytic
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### `02 / TASKFLOW`
 
 **Desktop Productivity Application**
 
-Java 21 + JavaFX + SQLite cross-platform task manager with Pomodoro timers, local persistence, history, themes, i18n, native packaging and CI/CD.
+Java 21 + JavaFX task manager with SQLite persistence, Pomodoro timers, history, themes, i18n, native packaging and CI/CD.
 
 <p>
 <a href="https://github.com/marodriguezd/TaskFlow">
@@ -148,13 +148,13 @@ Java 21 + JavaFX + SQLite cross-platform task manager with Pomodoro timers, loca
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### `03 / AURA TRANSCRIBE`
 
 **On-Device Speech & Live Subtitles**
 
-Java + Rust + GGML on-device speech-to-text for Android with Nemotron streaming ASR, IME keyboard, floating overlay and audio routing.
+Android speech-to-text with Java + Rust + GGML, Nemotron streaming ASR, IME keyboard, floating subtitles and audio routing; runs on-device.
 
 <p>
 <a href="https://github.com/marodriguezd/Aura-Transcribe">
@@ -163,13 +163,13 @@ Java + Rust + GGML on-device speech-to-text for Android with Nemotron streaming 
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### `04 / CROSSEDARTS`
 
 **Learning Operating System**
 
-React 19 + TypeScript local-first learning workspace with browser-based SQLite WASM, knowledge graph, spaced repetition (SM-2) and on-device AI. An optional FastAPI backend is also included.
+React 19 + TypeScript local-first learning workspace with SQLite WASM, knowledge graph, SM-2 spaced repetition and on-device AI; optional FastAPI backend.
 
 <p>
 <a href="https://github.com/marodriguezd/CrossedArts">
