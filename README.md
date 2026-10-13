@@ -167,7 +167,7 @@ Android speech-to-text with Java + Rust + GGML, Nemotron streaming ASR, IME keyb
 
 **Local-First Hair-Care Routine Tracker**
 
-Flutter + Dart app for logging wash days, reviewing weekly/monthly statistics and estimating the next wash from personal history. Local persistence, calendar, themes and CSV/JSON import/export; no account or cloud required.
+Flutter + Dart app for recording wash days, browsing a calendar, reviewing weekly and monthly statistics, and estimating the next wash from personal history. Includes light/dark/system themes and CSV/JSON import/export; data stays on-device.
 
 <p>
 <a href="https://github.com/marodriguezd/HairWashTracker">
