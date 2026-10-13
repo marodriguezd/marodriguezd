@@ -17,8 +17,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=FF79C6&center=true&vCenter=true&width=900&height=45&lines=DATA+ANALYTICS+%7C+PYTHON+%7C+SQL;MACHINE+LEARNING+%7C+GENERATIVE+AI+%7C+LLMs;SOFTWARE+ENGINEERING+%E2%80%A2+LINUX+%E2%80%A2+BUILDING" alt="Animated profile focus">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=marodriguezd&style=flat&color=ff79c6&label=profile+views" alt="Profile views">
-
 </div>
 
 ---
@@ -114,15 +112,15 @@
 
 ## `$ ls projects/`
 
-<table>
+<table width="100%" border="1" cellpadding="14" cellspacing="0">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### `01 / SRT4U`
 
 **Subtitle Processor**
 
-Python 3.13 + PyQt6 subtitle toolkit with desktop GUI and headless CLI, analytics/QA, SQLite history, translation providers and FFmpeg packaging. Optional extras add the FastAPI service and local Whisper transcription.
+Python 3.13 + PyQt6 subtitle suite with GUI/CLI, QA, SQLite history, translations and FFmpeg packaging. FastAPI and local Whisper are optional.
 
 <p>
 <a href="https://github.com/marodriguezd/SRT4U-Subtitle-Processor">
@@ -131,13 +129,13 @@ Python 3.13 + PyQt6 subtitle toolkit with desktop GUI and headless CLI, analytic
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### `02 / TASKFLOW`
 
 **Desktop Productivity Application**
 
-Java 21 + JavaFX + SQLite cross-platform task manager with Pomodoro timers, local persistence, history, themes, i18n, native packaging and CI/CD.
+Java 21 + JavaFX cross-platform task manager with SQLite, Pomodoro timers, task history, themes, i18n, native packaging and CI/CD.
 
 <p>
 <a href="https://github.com/marodriguezd/TaskFlow">
@@ -148,13 +146,13 @@ Java 21 + JavaFX + SQLite cross-platform task manager with Pomodoro timers, loca
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### `03 / AURA TRANSCRIBE`
 
 **On-Device Speech & Live Subtitles**
 
-Java + Rust + GGML on-device speech-to-text for Android with Nemotron streaming ASR, IME keyboard, floating overlay and audio routing.
+Android on-device speech-to-text in Java + Rust + GGML, with Nemotron streaming ASR, IME keyboard, floating subtitles and audio routing.
 
 <p>
 <a href="https://github.com/marodriguezd/Aura-Transcribe">
@@ -163,13 +161,13 @@ Java + Rust + GGML on-device speech-to-text for Android with Nemotron streaming 
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### `04 / CROSSEDARTS`
 
 **Learning Operating System**
 
-React 19 + TypeScript local-first learning workspace with browser-based SQLite WASM, knowledge graph, spaced repetition (SM-2) and on-device AI. An optional FastAPI backend is also included.
+React 19 + TypeScript local-first learning workspace with SQLite WASM, knowledge graph, SM-2 spaced repetition, on-device AI and optional FastAPI backend.
 
 <p>
 <a href="https://github.com/marodriguezd/CrossedArts">

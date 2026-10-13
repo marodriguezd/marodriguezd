@@ -18,6 +18,55 @@ def error(message: str) -> None:
     print(f"ERROR: {message}")
 
 
+def validate_focus_map_text_bounds(svg_path: Path) -> None:
+    """Conservatively check centered labels fit inside their map circles."""
+    try:
+        root = ET.parse(svg_path).getroot()
+    except (ET.ParseError, OSError):
+        return  # The general SVG parser below reports the underlying error.
+
+    circles: list[tuple[float, float, float]] = []
+    for element in root.iter():
+        if element.tag.rsplit("}", 1)[-1] != "circle":
+            continue
+        try:
+            circles.append(
+                (float(element.attrib["cx"]), float(element.attrib["cy"]), float(element.attrib["r"]))
+            )
+        except (KeyError, ValueError):
+            continue
+
+    for element in root.iter():
+        if element.tag.rsplit("}", 1)[-1] != "text" or element.attrib.get("text-anchor") != "middle":
+            continue
+        try:
+            x = float(element.attrib["x"])
+            y = float(element.attrib["y"])
+            font_size = float(element.attrib.get("font-size", "16"))
+        except (KeyError, ValueError):
+            continue
+
+        containing = [
+            radius for cx, cy, radius in circles
+            if abs(cx - x) < 0.5 and abs(y - cy) <= radius
+        ]
+        if not containing:
+            continue
+
+        label = "".join(element.itertext()).strip()
+        if not label:
+            continue
+        # SVG uses a monospace font for the focus map. This estimate adds a
+        # safety margin without requiring third-party font or rendering tools.
+        estimated_width = len(label) * font_size * 0.62
+        available_width = 2 * min(containing) - 8
+        if estimated_width > available_width:
+            error(
+                f"{svg_path.relative_to(ROOT)}: centered label {label!r} may overflow "
+                f"its circle (estimated {estimated_width:.1f}px > {available_width:.1f}px)."
+            )
+
+
 def main() -> int:
     if not README.is_file():
         error("README.md is missing.")
@@ -58,6 +107,8 @@ def main() -> int:
             continue
         if not root.tag.endswith("svg"):
             error(f"{svg.relative_to(ROOT)}: root element is not <svg>.")
+        if svg.name == "focus-map.svg":
+            validate_focus_map_text_bounds(svg)
         content = svg.read_text(encoding="utf-8")
         if re.search(r"<span\b", content, flags=re.IGNORECASE):
             error(f"{svg.relative_to(ROOT)}: HTML <span> is invalid in SVG; use <tspan>.")
