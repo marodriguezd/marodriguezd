@@ -80,8 +80,8 @@ def main() -> int:
         error("README.md: project grid heading is missing.")
     else:
         projects_section = readme[projects_heading.end():]
-        projects_section = projects_section.split("\\n---\\n", 1)[0]
-        project_ids = re.findall(r"(?m)^### `(\\d{2}) / ([^\`]+)`$", projects_section)
+        projects_section = projects_section.split("\n---\n", 1)[0]
+        project_ids = re.findall(r"(?m)^### `(\d{2}) / ([^`]+)`$", projects_section)
         expected_ids = [f"{number:02d}" for number in range(1, 7)]
         found_ids = [number for number, _ in project_ids]
         if found_ids != expected_ids:
