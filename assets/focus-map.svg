@@ -12,7 +12,7 @@
 </g>
 <circle cx="480" cy="155" r="50" fill="#111A2D" stroke="url(#g)" stroke-width="2"/>
 <text x="480" y="150" text-anchor="middle" class="m cream" font-size="12" font-weight="700">MARODRIGUEZD</text>
-<text x="480" y="170" text-anchor="middle" class="m muted" font-size="8.5">build · learn · ship</text>
+<text x="480" y="170" text-anchor="middle" class="m muted" font-size="9">build / ship</text>
 <g>
   <circle cx="190" cy="105" r="37" fill="#111A2D" stroke="#45E9FF"/><text x="190" y="101" text-anchor="middle" class="m cyan" font-size="14" font-weight="700">DATA</text><text x="190" y="119" text-anchor="middle" class="m muted" font-size="8.5">Python · SQL</text>
   <circle cx="770" cy="105" r="37" fill="#111A2D" stroke="#FF79C6"/><text x="770" y="101" text-anchor="middle" class="m pink" font-size="14" font-weight="700">AI</text><text x="770" y="119" text-anchor="middle" class="m muted" font-size="8.5">ML · LLMs</text>
