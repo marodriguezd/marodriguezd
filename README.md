@@ -17,8 +17,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=FF79C6&center=true&vCenter=true&width=900&height=45&lines=DATA+ANALYTICS+%7C+PYTHON+%7C+SQL;MACHINE+LEARNING+%7C+GENERATIVE+AI+%7C+LLMs;SOFTWARE+ENGINEERING+%E2%80%A2+LINUX+%E2%80%A2+BUILDING" alt="Animated profile focus">
 </a>
 
-
-
 </div>
 
 ---
@@ -122,7 +120,7 @@
 
 **Subtitle Processor**
 
-Python 3.13 + PyQt6 subtitle suite with desktop GUI/CLI, QA analytics, SQLite history, translations and FFmpeg packaging. FastAPI and local Whisper are optional extras.
+Python 3.13 + PyQt6 subtitle suite with GUI/CLI, QA analytics, SQLite history, translations and FFmpeg packaging. Optional FastAPI and local Whisper.
 
 <p>
 <a href="https://github.com/marodriguezd/SRT4U-Subtitle-Processor">
@@ -137,7 +135,7 @@ Python 3.13 + PyQt6 subtitle suite with desktop GUI/CLI, QA analytics, SQLite hi
 
 **Desktop Productivity Application**
 
-Java 21 + JavaFX task manager with SQLite persistence, Pomodoro timers, history, themes, i18n, native packaging and CI/CD.
+Java 21 + JavaFX cross-platform task manager with SQLite, Pomodoro timers, task history, themes, i18n, native packaging and CI/CD.
 
 <p>
 <a href="https://github.com/marodriguezd/TaskFlow">
@@ -154,7 +152,7 @@ Java 21 + JavaFX task manager with SQLite persistence, Pomodoro timers, history,
 
 **On-Device Speech & Live Subtitles**
 
-Android speech-to-text with Java + Rust + GGML, Nemotron streaming ASR, IME keyboard, floating subtitles and audio routing; runs on-device.
+Android on-device speech-to-text in Java + Rust + GGML, with Nemotron streaming ASR, IME keyboard, floating subtitles and audio routing.
 
 <p>
 <a href="https://github.com/marodriguezd/Aura-Transcribe">
@@ -169,7 +167,7 @@ Android speech-to-text with Java + Rust + GGML, Nemotron streaming ASR, IME keyb
 
 **Learning Operating System**
 
-React 19 + TypeScript local-first learning workspace with SQLite WASM, knowledge graph, SM-2 spaced repetition and on-device AI; optional FastAPI backend.
+React 19 + TypeScript local-first learning workspace with SQLite WASM, knowledge graph, SM-2 spaced repetition, on-device AI and optional FastAPI backend.
 
 <p>
 <a href="https://github.com/marodriguezd/CrossedArts">
