@@ -45,14 +45,14 @@
     <tr>
       <td width="50%" valign="top">
         <code>├─ ◈ data_ai:</code><br><br>
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=11162A">
-        <img src="https://img.shields.io/badge/SQL-45E9FF?style=flat-square&logo=postgresql&logoColor=11162A">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=ffffff">
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=ffffff"><br>
-        <img src="https://img.shields.io/badge/Statistics-8F9BB4?style=flat-square">
-        <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=11162A">
-        <img src="https://img.shields.io/badge/Deep_Learning-A78BFA?style=flat-square">
-        <img src="https://img.shields.io/badge/LLMs-FF79C6?style=flat-square&logo=openai&logoColor=ffffff"><br>
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=11162A" alt="Python">
+        <img src="https://img.shields.io/badge/SQL-45E9FF?style=flat-square&logo=postgresql&logoColor=11162A" alt="SQL">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=ffffff" alt="Pandas">
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=ffffff" alt="NumPy"><br>
+        <img src="https://img.shields.io/badge/Statistics-8F9BB4?style=flat-square" alt="Statistics">
+        <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=11162A" alt="Machine learning">
+        <img src="https://img.shields.io/badge/Deep_Learning-A78BFA?style=flat-square" alt="Deep learning">
+        <img src="https://img.shields.io/badge/LLMs-FF79C6?style=flat-square&logo=openai&logoColor=ffffff" alt="Large language models"><br>
         <sub><code>analysis · statistics · machine learning · generative AI</code></sub>
       </td>
       <td width="50%" valign="top">
@@ -76,17 +76,17 @@
     <tr>
       <td valign="top">
         <code>╰─ ◌ desktop_i18n:</code><br><br>
-        <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=ffffff">
-        <img src="https://img.shields.io/badge/JavaFX-8B5CF6?style=flat-square">
-        <img src="https://img.shields.io/badge/i18n-38E8FF?style=flat-square">
-        <img src="https://img.shields.io/badge/FFmpeg-5B78FF?style=flat-square&logo=ffmpeg&logoColor=ffffff"><br>
+        <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=ffffff" alt="PyQt6">
+        <img src="https://img.shields.io/badge/JavaFX-8B5CF6?style=flat-square" alt="JavaFX">
+        <img src="https://img.shields.io/badge/i18n-38E8FF?style=flat-square" alt="Internationalization">
+        <img src="https://img.shields.io/badge/FFmpeg-5B78FF?style=flat-square&logo=ffmpeg&logoColor=ffffff" alt="FFmpeg"><br>
         <sub><code>desktop apps · packaging · internationalization · media tooling</code></sub>
       </td>
       <td valign="top">
         <code>╰─ ◉ environment:</code><br><br>
-        <img src="https://img.shields.io/badge/Fedora_Linux-51A2DA?style=flat-square&logo=fedora&logoColor=ffffff">
-        <img src="https://img.shields.io/badge/Linux--first-FFE1A6?style=flat-square&logo=linux&logoColor=11162A">
-        <img src="https://img.shields.io/badge/terminal--native-FF79C6?style=flat-square"><br>
+        <img src="https://img.shields.io/badge/Fedora_Linux-51A2DA?style=flat-square&logo=fedora&logoColor=ffffff" alt="Fedora Linux">
+        <img src="https://img.shields.io/badge/Linux--first-FFE1A6?style=flat-square&logo=linux&logoColor=11162A" alt="Linux-first workflow">
+        <img src="https://img.shields.io/badge/terminal--native-FF79C6?style=flat-square" alt="Terminal-native workflow"><br>
         <sub><code>daily environment · Linux-native workflow</code></sub>
       </td>
     </tr>
@@ -105,7 +105,7 @@
 ## `$ kubectl get focus --all-namespaces`
 
 <p align="center">
-  <img src="assets/focus-map.svg" width="960" alt="Focus map connecting data, AI, software and Linux">
+  <img src="assets/focus-map.svg" width="960" alt="Focus map connecting data analytics, AI, software engineering and Linux">
 </p>
 
 <p align="center"><sub><code>direction: data analytics · machine learning · generative AI · software engineering · Linux</code></sub></p>
@@ -122,11 +122,11 @@
 
 **Subtitle Processor**
 
-Python 3.13 + PyQt6 desktop application with CLI, FastAPI, translation/transcription services, SQLite history, subtitle analytics/QA, FFmpeg, i18n and packaging.
+Python 3.13 + PyQt6 subtitle toolkit with desktop GUI and headless CLI, analytics/QA, SQLite history, translation providers and FFmpeg packaging. Optional extras add the FastAPI service and local Whisper transcription.
 
 <p>
 <a href="https://github.com/marodriguezd/SRT4U-Subtitle-Processor">
-<img src="https://img.shields.io/badge/OPEN_REPO-FF79C6?style=flat-square&logo=github&logoColor=ffffff&labelColor=0A0D18">
+<img src="https://img.shields.io/badge/OPEN_REPO-FF79C6?style=flat-square&logo=github&logoColor=ffffff&labelColor=0A0D18" alt="Open SRT4U repository">
 </a>
 </p>
 
@@ -141,7 +141,7 @@ Java 21 + JavaFX + SQLite cross-platform task manager with Pomodoro timers, loca
 
 <p>
 <a href="https://github.com/marodriguezd/TaskFlow">
-<img src="https://img.shields.io/badge/OPEN_REPO-45E9FF?style=flat-square&logo=github&logoColor=ffffff&labelColor=0A0D18">
+<img src="https://img.shields.io/badge/OPEN_REPO-45E9FF?style=flat-square&logo=github&logoColor=ffffff&labelColor=0A0D18" alt="Open TaskFlow repository">
 </a>
 </p>
 
@@ -158,7 +158,7 @@ Java + Rust + GGML on-device speech-to-text for Android with Nemotron streaming 
 
 <p>
 <a href="https://github.com/marodriguezd/Aura-Transcribe">
-<img src="https://img.shields.io/badge/OPEN_REPO-8B5CF6?style=flat-square&logo=github&logoColor=ffffff&labelColor=0A0D18">
+<img src="https://img.shields.io/badge/OPEN_REPO-8B5CF6?style=flat-square&logo=github&logoColor=ffffff&labelColor=0A0D18" alt="Open Aura Transcribe repository">
 </a>
 </p>
 
@@ -169,11 +169,11 @@ Java + Rust + GGML on-device speech-to-text for Android with Nemotron streaming 
 
 **Learning Operating System**
 
-React 19 + TypeScript + FastAPI local-first workspace with SQLite WASM, knowledge graph, spaced repetition (SM-2) and on-device AI.
+React 19 + TypeScript local-first learning workspace with browser-based SQLite WASM, knowledge graph, spaced repetition (SM-2) and on-device AI. An optional FastAPI backend is also included.
 
 <p>
 <a href="https://github.com/marodriguezd/CrossedArts">
-<img src="https://img.shields.io/badge/OPEN_REPO-FFE1A6?style=flat-square&logo=github&logoColor=ffffff&labelColor=0A0D18">
+<img src="https://img.shields.io/badge/OPEN_REPO-FFE1A6?style=flat-square&logo=github&logoColor=ffffff&labelColor=0A0D18" alt="Open CrossedArts repository">
 </a>
 </p>
 
@@ -207,9 +207,9 @@ React 19 + TypeScript + FastAPI local-first workspace with SQLite WASM, knowledg
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/marodriguezd?label=FOLLOWERS&style=flat-square&logo=github&logoColor=FFE1A6&labelColor=0A0D18&color=8B5CF6">
-  <img src="https://img.shields.io/github/stars/marodriguezd?label=STARS&style=flat-square&logo=github&logoColor=FFE1A6&labelColor=0A0D18&color=8B5CF6">
-  <img src="https://img.shields.io/github/last-commit/marodriguezd/marodriguezd?label=LAST%20COMMIT&style=flat-square&logo=git&logoColor=45E9FF&labelColor=0A0D18&color=45E9FF">
+  <img src="https://img.shields.io/github/followers/marodriguezd?label=FOLLOWERS&style=flat-square&logo=github&logoColor=FFE1A6&labelColor=0A0D18&color=8B5CF6" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/marodriguezd?label=STARS&style=flat-square&logo=github&logoColor=FFE1A6&labelColor=0A0D18&color=8B5CF6" alt="GitHub stars">
+  <img src="https://img.shields.io/github/last-commit/marodriguezd/marodriguezd?label=LAST%20COMMIT&style=flat-square&logo=git&logoColor=45E9FF&labelColor=0A0D18&color=45E9FF" alt="Last profile repository commit">
 </p>
 
 ---
@@ -229,5 +229,5 @@ React 19 + TypeScript + FastAPI local-first workspace with SQLite WASM, knowledg
 </div>
 
 <p align="center">
-  <img src="assets/footer.svg" width="960" alt="Animated thank you footer">
+  <img src="assets/footer.svg" width="960" alt="Thank-you footer with subtle animated accents">
 </p>
