@@ -74,6 +74,21 @@ def main() -> int:
 
     readme = README.read_text(encoding="utf-8")
 
+    # Keep the profile's featured projects as a deliberate six-card grid.
+    projects_heading = re.search(r"(?m)^## `\$ ls projects/`$", readme)
+    if not projects_heading:
+        error("README.md: project grid heading is missing.")
+    else:
+        projects_section = readme[projects_heading.end():]
+        projects_section = projects_section.split("\n---\n", 1)[0]
+        project_ids = re.findall(r"(?m)^### `(\d{2}) / ([^`]+)`$", projects_section)
+        expected_ids = [f"{number:02d}" for number in range(1, 7)]
+        found_ids = [number for number, _ in project_ids]
+        if found_ids != expected_ids:
+            error(f"README.md: expected six ordered project cards {expected_ids}, found {found_ids}.")
+        if "https://github.com/marodriguezd/HairWashTracker" not in projects_section:
+            error("README.md: HairWashTracker is missing from the featured project grid.")
+
     for match in re.finditer(r"<img\b[^>]*>", readme, flags=re.IGNORECASE | re.DOTALL):
         tag = match.group(0)
         line = readme.count("\n", 0, match.start()) + 1
