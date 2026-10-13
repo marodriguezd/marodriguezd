@@ -41,7 +41,7 @@
   </thead>
   <tbody>
     <tr>
-      <td width="50%" valign="top" align="left">
+      <td width="50%" valign="top">
         <code>├─ ◈ data_ai:</code><br><br>
         <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=11162A" alt="Python">
         <img src="https://img.shields.io/badge/SQL-45E9FF?style=flat-square&logo=postgresql&logoColor=11162A" alt="SQL">
@@ -53,7 +53,7 @@
         <img src="https://img.shields.io/badge/LLMs-FF79C6?style=flat-square&logo=openai&logoColor=ffffff" alt="Large language models"><br>
         <sub><code>analysis · statistics · machine learning · generative AI</code></sub>
       </td>
-      <td width="50%" valign="top" align="left">
+      <td width="50%" valign="top">
         <code>├─ ◫ software_backend:</code><br><br>
         <img src="https://skillicons.dev/icons?i=java,spring,fastapi,sqlite,docker" alt="Java, Spring, FastAPI, SQLite and Docker"><br>
         <sub><code>Java · Spring Boot · FastAPI · SQLite · Docker</code></sub>
@@ -120,7 +120,7 @@
 
 **Subtitle Processor**
 
-Python 3.13 + PyQt6 subtitle suite with GUI/CLI, QA analytics, SQLite history, translations and FFmpeg packaging. Optional FastAPI and local Whisper.
+Python 3.13 + PyQt6 subtitle suite with GUI/CLI, QA, SQLite history, translations and FFmpeg packaging. FastAPI and local Whisper are optional.
 
 <p>
 <a href="https://github.com/marodriguezd/SRT4U-Subtitle-Processor">
