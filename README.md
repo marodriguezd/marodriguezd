@@ -120,7 +120,7 @@
 
 **Subtitle Processor**
 
-Python 3.13 + PyQt6 subtitle suite with GUI/CLI, QA, SQLite history, translations and FFmpeg packaging. FastAPI and local Whisper are optional.
+Python 3.13 + PyQt6 subtitle suite with GUI/CLI, subtitle QA and analytics, SQLite history, translation providers and FFmpeg packaging. FastAPI and local Whisper transcription are optional extras.
 
 <p>
 <a href="https://github.com/marodriguezd/SRT4U-Subtitle-Processor">
@@ -135,7 +135,7 @@ Python 3.13 + PyQt6 subtitle suite with GUI/CLI, QA, SQLite history, translation
 
 **Desktop Productivity Application**
 
-Java 21 + JavaFX cross-platform task manager with SQLite, Pomodoro timers, task history, themes, i18n, native packaging and CI/CD.
+Java 21 + JavaFX cross-platform task manager with SQLite persistence, Pomodoro timers, task history, themes, i18n, native packaging and CI/CD.
 
 <p>
 <a href="https://github.com/marodriguezd/TaskFlow">
@@ -152,7 +152,7 @@ Java 21 + JavaFX cross-platform task manager with SQLite, Pomodoro timers, task 
 
 **On-Device Speech & Live Subtitles**
 
-Android on-device speech-to-text in Java + Rust + GGML, with Nemotron streaming ASR, IME keyboard, floating subtitles and audio routing.
+Android speech-to-text with Java + Rust + GGML, Nemotron streaming ASR, IME keyboard, floating subtitles and audio routing; inference runs on-device.
 
 <p>
 <a href="https://github.com/marodriguezd/Aura-Transcribe">
@@ -163,22 +163,49 @@ Android on-device speech-to-text in Java + Rust + GGML, with Nemotron streaming 
 </td>
 <td width="50%" valign="top" align="left">
 
-### `04 / CROSSEDARTS`
+### `04 / HAIRWASHTRACKER`
 
-**Learning Operating System**
+**Local-First Hair-Care Routine Tracker**
 
-React 19 + TypeScript local-first learning workspace with SQLite WASM, knowledge graph, SM-2 spaced repetition, on-device AI and optional FastAPI backend.
+Flutter + Dart app for logging wash days, reviewing weekly/monthly statistics and estimating the next wash from personal history. Local persistence, calendar, themes and CSV/JSON import/export; no account or cloud required.
 
 <p>
-<a href="https://github.com/marodriguezd/CrossedArts">
-<img src="https://img.shields.io/badge/OPEN_REPO-FFE1A6?style=flat-square&logo=github&logoColor=ffffff&labelColor=0A0D18" alt="Open CrossedArts repository">
+<a href="https://github.com/marodriguezd/HairWashTracker">
+<img src="https://img.shields.io/badge/OPEN_REPO-FFE1A6?style=flat-square&logo=github&logoColor=11162A&labelColor=0A0D18" alt="Open HairWashTracker repository">
 </a>
 </p>
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top" align="left">
 
+### `05 / CROSSEDARTS`
+
+**Local-First Learning Workspace**
+
+React 19 + TypeScript learning environment with browser-based SQLite WASM, notes, books, knowledge graph, SM-2 spaced repetition and on-device AI. Optional FastAPI backend.
+
+<p>
+<a href="https://github.com/marodriguezd/CrossedArts">
+<img src="https://img.shields.io/badge/OPEN_REPO-FF79C6?style=flat-square&logo=github&logoColor=ffffff&labelColor=0A0D18" alt="Open CrossedArts repository">
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top" align="left">
+
+### `06 / PORTFOLIO LAB`
+
+**Projects in Active Development**
+
+A growing space for experiments, prototypes and new portfolio work. More details will be added as projects reach a presentable milestone.
+
+<sub><code>status: expanding · documentation in progress</code></sub>
+
+</td>
+</tr>
+</table>
 ---
 
 ## `$ tail -f learning.log`
